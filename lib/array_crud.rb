@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  arr = ["1"]
+  arr = ["1", "3", "4", "5"]
   return arr
 end
 
